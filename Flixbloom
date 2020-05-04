@@ -1,0 +1,64 @@
+flixbloom about <div dir="ltr" style="text-align: left;" trbidi="on">
+<html>
+<head>
+<script>
+function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =
+  h + ":" + m + ":" + s;
+  var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+  return i;
+}
+</script>
+</head>
+
+<body onload="startTime()">
+
+<div id="txt">
+</div>
+</body>
+</html>
+<br />
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<h2 style="text-align: left;">
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="https://1.bp.blogspot.com/-zI1CMf3IiWY/Xohs2ISC4vI/AAAAAAAAAZs/fbKEmc2oUecO6KNrL3geHpWn4plaIEb1ACLcBGAsYHQ/s1600/New%2BProject%252810%2529.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1600" data-original-width="1600" height="320" src="https://1.bp.blogspot.com/-zI1CMf3IiWY/Xohs2ISC4vI/AAAAAAAAAZs/fbKEmc2oUecO6KNrL3geHpWn4plaIEb1ACLcBGAsYHQ/s320/New%2BProject%252810%2529.jpg" width="320" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><a href="https://vocaroo.com/8i6zIgmBrNp" rel="nofollow" target="_blank">Flixbloom</a></td></tr>
+</tbody></table>
+Flixbloom  is an Indian retail brand that offers the best of the best 
+ at  affordable prices including all the everyday items.</h2>
+<h4 style="text-align: left;">
+Flixbloom was  
+ founded in the month of February 2019 where it started as a small 
+retail   and wholesale which we  Continuing forward, its headquarters 
+are   located in Delhi.<a href="https://twitter.com/flixbloom">About Flixbloom</a>
+
+</h4>
+<h4 style="text-align: left;">
+We are constantly moving forward because of you, we will give more momentum to your trust and confidence.</h4>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-5W1cr9BHzW0/Xohn5b1GEHI/AAAAAAAAAYQ/mRLtDk4VAbobYHUlPcubMnfGtTSg4rPTQCPcBGAYYCw/s1600/pierre-chatel-innocenti-pxo-ZSTd-Aze-U-unsplash-copy.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1067" data-original-width="1600" height="213" src="https://1.bp.blogspot.com/-5W1cr9BHzW0/Xohn5b1GEHI/AAAAAAAAAYQ/mRLtDk4VAbobYHUlPcubMnfGtTSg4rPTQCPcBGAYYCw/s320/pierre-chatel-innocenti-pxo-ZSTd-Aze-U-unsplash-copy.jpg" width="320" /></a></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trusted byThousand of customers <br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-sAFpPt32MxM/XohmBdRUxRI/AAAAAAAAAX4/cKbNvZsEkGMyhuNj1e9o2BSgZdhSNpF2gCPcBGAYYCw/s1600/Flixbloom%2Blogo%2Bpng.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1121" data-original-width="1600" height="224" src="https://1.bp.blogspot.com/-sAFpPt32MxM/XohmBdRUxRI/AAAAAAAAAX4/cKbNvZsEkGMyhuNj1e9o2BSgZdhSNpF2gCPcBGAYYCw/s320/Flixbloom%2Blogo%2Bpng.png" width="320" /></a></div>
+<h4 style="text-align: left;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Flixbloom </h4>
+</div>
+Sponsored <script async="" src="https://cdn.onlymega.com/ck8ll6efx000aqvpdzau7b7su/embed.js?responsive=1&amp;bnTag="></script>
+
+<a class="twitter-follow-button" data-show-count="false" href="https://twitter.com/flixbloom?ref_src=twsrc%5Etfw">Follow @flixbloom</a><script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+</div>
